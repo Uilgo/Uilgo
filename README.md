@@ -1,5 +1,4 @@
- <h1>### Olá, eu sou o Igor!! 👋</h1>
-
+ <h1>### Olá, eu sou o Igor!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1> 
 - <h3> 🌱 Atualmente estudando Javascript!! </h3>
 - <h4> ⚡ Possuo uma base de conhecimento sólida em HTML5 e CSS3!! </h4>
 - <h4> ⚡ Meu objetivo inicial é me especializar como Dev. FrontEnd!! </h4>
