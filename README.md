@@ -3,11 +3,11 @@
 <h1 align="left"> ⭐ Olá, eu sou o Igor!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 <p align="left">
 
-<p align="left"> 🦄 Linguagens: <strong> 🌱 Atualmente estudando Javascript!! </strong> </p>
-<p align="left"> ⚡ Possuo uma base de conhecimento sólida em HTML5 e CSS3!! </p>
+<p align="left"> 🦄 Linguagens: <strong> 🌱 Atualmente desenvolvendo em JavaScript!! </strong> </p>
+<p align="left"> ⚡ Possuo uma base de conhecimento sólida em desenvolvimento web Front-End com JavaScript e React.js, e o básico de Node.js no Back-End e desenvolvimento No Code com Bubble e FlutterFlow!! </p>
 <p align="left"> ⚡ Meu objetivo inicial é me especializar como Dev. FrontEnd!! </p>
 <p align="left"> 🔭 Dev. Fullstack... (Em Breve!!) </p> 
-<p align="left"> 🔭 Futuro desenvolvedor de softwares!! </p> 
+<p align="left"> 🔭 Desenvolvedor de Software!! </p>
 
 ##
  
